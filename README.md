@@ -1,4 +1,4 @@
 git-test
 ========
 
-Test project
+Test project.
